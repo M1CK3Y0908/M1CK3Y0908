@@ -12,6 +12,7 @@
 <a href="https://space.bilibili.com/3690998569895956" target="_blank"><img src="https://img.shields.io/badge/Bilibili-M1CK3Y__-4A446C?style=flat-square&logo=bilibili&logoColor=white&labelColor=FB7299" height="20"/></a>
 <a href="https://youtube.com/@M1CK3Y-98" target="_blank"><img src="https://img.shields.io/badge/YouTube-@M1CK3Y--98-4A446C?style=flat-square&logo=youtube&logoColor=white&labelColor=FF0000" height="20"/></a>
 <a href="https://wpa.qq.com/msgrd?v=3&uin=2684833466&site=qq&menu=yes" target="_blank"><img src="https://img.shields.io/badge/QQ-2684833466-4A446C?style=flat-square&logo=qq&logoColor=white&labelColor=12B7F5" height="20"/></a>
+<a href="https://x.com/__M1CK3Y__" target="_blank"><img src="https://img.shields.io/badge/X-@____M1CK3Y____-4A446C?style=flat-square&logo=x&logoColor=white&labelColor=000000" height="20"/></a>
 
 <br><br>
 
