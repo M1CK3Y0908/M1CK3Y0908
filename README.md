@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4A446C&height=180&section=header&text=M1CK3Y0908&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A446C&height=180&section=header&text=M1CK3Y&fontFamily=Product+Sans+Bold&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=4A446C&center=true&vCenter=true&width=650&lines=Developer+%2F+Modder;Minecraft+%7C+Java+%7C+Lua+%7C+Android;Always+experimenting.+Always+learning."/>
 
